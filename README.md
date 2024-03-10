@@ -50,11 +50,12 @@ The final step is to analyse and derive important insights from this data using 
 ![Screenshot (23)](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/4873bb22-26da-4fa2-9920-53a6bcc46072)
 
 
-## Total number of athletes by discipline 
+## Total number of athletes by discipline in India
 
 
 ![Screenshot (24)](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/791eae22-bdb1-4a9a-8dc1-938a751dcfbd)
 
+![SQL script 1 (5)](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/3a38a871-1b79-4e7e-93db-5b47bc6790e3)
 
 
 

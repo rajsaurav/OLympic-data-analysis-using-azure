@@ -47,9 +47,7 @@ The final step is to analyse and derive important insights from this data using 
 ## Total number of medals won by India
 
 
-![Screenshot (22)](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/1347dba3-6db1-4c39-a5ec-1da033d335d0)
-
-
+![Screenshot (23)](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/96905e6f-8022-4b67-b64e-73223021b480)
 
 
 

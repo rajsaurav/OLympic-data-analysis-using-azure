@@ -57,5 +57,17 @@ The final step is to analyse and derive important insights from this data using 
 
 ![SQL script 1 (5)](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/3a38a871-1b79-4e7e-93db-5b47bc6790e3)
 
+## Countries with highest number of coaches 
+
+![Screenshot (30)](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/08c0abe0-e1b8-40d1-9faa-1f432b450842)
+
+![SQL script 1 (6)](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/7790f114-6b40-4998-bac7-ff0d5c16d753)
+
+
+## -- calculate the average number of entries by gender for each discipline 
+
+![Screenshot (31)](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/b250bc22-eacd-4d35-8f22-1f279c2134ec)
+
+![SQL script 1 (7)](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/a4d90b76-4723-4d62-955a-78ba1026b38d)
 
 

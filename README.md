@@ -4,11 +4,11 @@ This project deals with Tokyo Olympics 2021 dataset. This project involves under
 
 There are 5 datasets from which the data was extracted to perform analysis.
 
-- Athletes data: The file contains all athletes data. Columns: Name, National Olympic Committee (NOC) and Discipline
-- Coaches data: The file contains coaches names. Columns: Name, National Olympic Committee (NOC), Discipline and Event
+- Athletes data: The file contains all athletes data. Columns: Name, Name of Country (NOC) and Discipline
+- Coaches data: The file contains coaches names. Columns: Name, Name of Country (NOC), Discipline and Event
 - Entries Gender data: The file contains males and females data. Columns: Discipline, Female, Male and Total
 - Medals data: The file contains ranks and all the three medals. Columns: Rank, Team/NOC, Gold, Silver, Bronze, Total, Rank by Total
-- Teams Data: The file contains all the teams. Columns: Name, National Olympic Committee (NOC), Discipline and Event
+- Teams Data: The file contains all the teams. Columns: Name, Name of Country (NOC), Discipline and Event
 
 Source of the dataset: [Link](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 

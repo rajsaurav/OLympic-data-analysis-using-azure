@@ -14,7 +14,7 @@ Source of the dataset: [Link](https://www.kaggle.com/datasets/arjunprasadsarkhel
 
 # Data Architecture
 
-![Untitled-2024-03-11-0818](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/ca826f76-d4c2-4c90-aec9-d463f782288a)
+![Untitled-2024-03-11-0818](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/7df97d32-6649-4576-bee8-685761567c1d)
 
 
 # Data Ingestion

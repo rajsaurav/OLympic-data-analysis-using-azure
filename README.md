@@ -13,7 +13,8 @@ There are 5 datasets from which the data was extracted to perform analysis.
 Source of the dataset: [Link](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 
 # Data Architecture
-![Data Architecture](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/9efffc59-0395-46fe-9d77-57bf4d91f037)
+
+![Untitled-2024-03-11-0818](https://github.com/rajsaurav/Olympic-data-analysis-using-azure/assets/35574674/ca826f76-d4c2-4c90-aec9-d463f782288a)
 
 
 # Data Ingestion
